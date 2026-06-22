@@ -90,10 +90,7 @@ This repository serves as a comprehensive portfolio documenting the tasks and pr
 - 🛒 **Total Quantity Sold**
 
 ### 🖼️ Dashboard Screenshots
-> *(Placeholders for Dashboard Screenshots)*
-> 
-> `![Dashboard Overview](path/to/screenshot1.png)`
-> `![Customer Segmentation](path/to/screenshot2.png)`
+![Dashboard Overview](./Task3_Data_Analytics/dashboard_screenshot.png)
 
 ---
 
